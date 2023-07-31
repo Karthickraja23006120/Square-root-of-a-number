@@ -18,7 +18,7 @@ To write a program to find the square root of a number.
 ```
 /*
 Program to find the square root for the given number(newton's method) using function.
-Developed by: Ksrthick Raja K
+Developed by: Karthick Raja K
 RegisterNumber:  23006120
 def square():
     number=int(input())
@@ -32,6 +32,7 @@ square()
 
 ## Output:
 ![gcd of two number](gcd.png)
+![output](/Screenshot%202023-07-31%20191401.png)
 
 
 ## Result:
